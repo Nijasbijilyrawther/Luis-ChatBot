@@ -1,0 +1,42 @@
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Bot Application.dll.config
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Bot Application.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Bot Application.pdb
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Autofac.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\BestMatchDialog.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Chronic.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.Bot.Builder.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.Bot.Connector.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Newtonsoft.Json.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\System.Net.Http.Formatting.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\System.Web.Http.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\System.Web.Http.WebHost.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Autofac.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.Bot.Builder.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.Bot.Connector.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\Newtonsoft.Json.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\System.Net.Http.Formatting.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\System.Web.Http.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\System.Web.Http.WebHost.xml
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\obj\Release\Sample Bot Application.csprojResolveAssemblyReference.cache
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\obj\Release\Sample Bot Application.csproj.CoreCompileInputs.cache
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\obj\Release\Bot Application.dll
+c:\users\nrawther\source\repos\Sample Bot Application\Sample Bot Application\obj\Release\Bot Application.pdb
